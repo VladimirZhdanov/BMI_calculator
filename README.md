@@ -13,8 +13,12 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 
 
 <div align="left">
-    <img src="https://github.com/VladimirZhdanov/Tip_calculator/blob/master/images/IMG_0305.PNG" width="200px"</img> 
-    <img src="https://github.com/VladimirZhdanov/Tip_calculator/blob/master/images/IMG_0306.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0312.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0313.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0314.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0315.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0316.PNG" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/BMI_calculator/blob/master/images/IMG_0317.PNG" width="200px"</img> 
 </div>
 
 ## A few words
